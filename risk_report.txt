@@ -1,0 +1,60 @@
+Company: Universal Music Group
+Risk Level: Medium
+Risk Score: 4.28
+AML Risk Score: 4.28
+CPI Risk Score: 69
+Negative Media Mentions: No data found
+Sanctioned: No
+Country Corruption Rank: 96.2264175415039
+Geolocation: -118.35341, 34.1389
+----------------------
+
+Company: Sony Music Entertainment
+Risk Level: High
+Risk Score: 5.36
+AML Risk Score: 5.36
+CPI Risk Score: 31
+Negative Media Mentions: No data found
+Sanctioned: No
+Country Corruption Rank: 83.0188674926758
+Geolocation: -75.1274, 39.74817
+----------------------
+
+Company: Warner Music Group
+Risk Level: Medium
+Risk Score: 4.28
+AML Risk Score: 4.28
+CPI Risk Score: 69
+Negative Media Mentions: No data found
+Sanctioned: No
+Country Corruption Rank: 83.0188674926758
+Geolocation: -83.631726, 32.616382
+----------------------
+
+Company: BMG Rights Management
+Risk Level: Medium
+Risk Score: 4.28
+AML Risk Score: 4.28
+CPI Risk Score: 78
+Negative Media Mentions: No data found
+Sanctioned: No
+Country Corruption Rank: 94.3396224975586
+Geolocation: No data found
+----------------------
+
+Company: Live Nation Entertainment
+Risk Level: Medium
+Risk Score: 4.28
+AML Risk Score: 4.28
+CPI Risk Score: 69
+Negative Media Mentions: No data found
+Sanctioned: No
+Country Corruption Rank: 83.0188674926758
+Geolocation: No data found
+----------------------
+
+
+Summary:
+- 1 out of 5 companies are classified as HIGH risk due to AML/CPI risk factors.
+- 0 companies are sanctioned.
+- 5 companies have no negative media mentions, reducing reputational risk.
